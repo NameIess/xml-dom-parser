@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<br-m>
+    <!--<x />-->
+    <food id="1">
+        <name>Belgian Waffles</name>
+        <price>$5.95</price>
+        <x name="order now">
+            <x>
+                <x>
+                    <x id="inner" i="final"/>
+                </x>
+            </x>
+        </x>
+        <!--<x>-->
+            <!--<x id="inner" i="final"/>-->
+        <!--</x>-->
+        <y>
+            <z id="wow!">
+                50% off!
+            </z>
+        </y>
+
+    </food>
+</br-m>
+<!--
+sample
+comment
+-->
